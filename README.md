@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Arjun and I'm a Computer Science undergrad from Canada
+
+🌱Interests:
+  - Web development
+  - Data Science :chart:	
+
+:mailbox_with_mail:Feel free to reach out via email or LinkedIn: arjun.bhandal@ryerson.ca | https://www.linkedin.com/in/arjunsbb/
+:raising_hand_man:Check out my website: https://arjunsb.com/
+
+
