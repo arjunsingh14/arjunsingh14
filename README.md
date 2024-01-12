@@ -18,6 +18,7 @@ My name is Arjun and I'm a Computer Science student from Canada
 
 💼 Experience:
 Software QA Analyst Intern @ theScore -> May 2023 - Dec 2023
+
 Software Developer Intern @theScore -> Jan 2024 - April 2024
 
 :mailbox_with_mail:Feel free to reach out via email or LinkedIn: arjun.bhandal@ryerson.ca | https://www.linkedin.com/in/arjunsbb/
