@@ -20,7 +20,11 @@ My name is Arjun and I'm a Computer Science student from Canada
 
 Software QA Analyst Intern @ theScore -> May 2023 - Dec 2023
 
-Software Developer Intern @theScore -> Jan 2024 - Aug 2024
+Software Engineer Intern @ theScore -> Jan 2024 - April 2024
+
+Software Engineer Intern @ theScore -> May 2024 - Sep 2024
+
+Work Github: https://github.com/arjunthescore
 
 ----------------------------------------------------------------
 
