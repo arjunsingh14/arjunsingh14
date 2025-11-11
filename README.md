@@ -24,7 +24,7 @@ Software Engineer Intern @ theScore -> Jan 2024 - April 2024
 
 Software Engineer Intern @ theScore -> May 2024 - Sep 2024
 
-Incoming Software Engineer @ theScore -> April 2025 - Aug 2025
+Software Engineer @ theScore -> April 2025 - Aug 2025
 
 Work Github: https://github.com/arjunthescore
 
