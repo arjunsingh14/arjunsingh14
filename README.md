@@ -26,6 +26,8 @@ Software Engineer Intern @ theScore -> May 2024 - Sep 2024
 
 Software Engineer @ theScore -> April 2025 - Aug 2025
 
+Software Engineer @ Shopify -> Jan 2026 - Apr 2026
+
 Work Github: https://github.com/arjunthescore
 
 ----------------------------------------------------------------
